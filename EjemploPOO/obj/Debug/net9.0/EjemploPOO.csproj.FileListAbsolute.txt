@@ -1,0 +1,14 @@
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\bin\Debug\net9.0\EjemploPOO.exe
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\bin\Debug\net9.0\EjemploPOO.deps.json
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\bin\Debug\net9.0\EjemploPOO.runtimeconfig.json
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\bin\Debug\net9.0\EjemploPOO.dll
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\bin\Debug\net9.0\EjemploPOO.pdb
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\obj\Debug\net9.0\EjemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\obj\Debug\net9.0\EjemploPOO.AssemblyInfoInputs.cache
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\obj\Debug\net9.0\EjemploPOO.AssemblyInfo.cs
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\obj\Debug\net9.0\EjemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\obj\Debug\net9.0\EjemploPOO.dll
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\obj\Debug\net9.0\refint\EjemploPOO.dll
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\obj\Debug\net9.0\EjemploPOO.pdb
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\obj\Debug\net9.0\EjemploPOO.genruntimeconfig.cache
+C:\Users\JIMMY\Desktop\GitHub 2025\POO\EjemploPOO\obj\Debug\net9.0\ref\EjemploPOO.dll
